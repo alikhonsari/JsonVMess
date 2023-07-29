@@ -9,8 +9,9 @@
 1.Clone the repository to your local machine:
 
 `git clone https://github.com/alikhonsari/JsonVMess
-cd jsonmess
 `
+`cd jsonmess`
+
 
 2.Make sure the script is executable:
 
